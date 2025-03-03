@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Default View"
+    id="id-76a5b94d8f924bcb9f7c6f8fa0d12dd1">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-f4c960ca79f34944a01e92fea1a723e7"
+      textAlignment="1"
+      content="Matts Notiz für den Quark">
+    <bounds
+        x="135"
+        y="99"
+        width="185"
+        height="80"/>
+  </children>
+</archimate:ArchimateDiagramModel>
